@@ -40,15 +40,15 @@
                 </div>
                 <div class="task">
                     <div class="round">
-                        <input type="checkbox" checked id="checkbox" />
-                        <label for="checkbox"></label>
+                        <input type="checkbox" checked id="checkbox2" />
+                        <label for="checkbox2"></label>
                       </div>
                     <div class="task-title">Acabar esta aplicación</div>
                 </div>
                 <div class="task">
                     <div class="round">
-                        <input type="checkbox" checked id="checkbox" />
-                        <label for="checkbox"></label>
+                        <input type="checkbox" checked id="checkbox3" />
+                        <label for="checkbox3"></label>
                       </div>
                     <div class="task-title">Acabar esta aplicación</div>
                 </div>

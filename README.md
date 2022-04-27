@@ -1,17 +1,15 @@
-# Documentación
-### _Documentación del proyecto_
+# todo-app
+Gestión de tareas online
+
  
-### Información General
+### Información
 ***
 Aplicación trata sobre creación de tareas, organización de proyectos.
+
  
 ### Tecnologias
 ***
- - PHP(https://example.com): Version 7.4
- - PHP(https://example.com): Version 7.4
- - PHP(https://example.com): Version 7.4
- 
-### Base de datos
-***
-La base de datos la encontramos en el fichero [SQL](https://github.com/marcw2/todo-app/todo.sql/)
+ - PHP (version 7.4)
+ - HTML
+ - CSS
  
